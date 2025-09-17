@@ -3,7 +3,7 @@
 ## Beskrivning
 
 Detta är frontend-delen av applikationen som använder **React**, **Vite** och **TypeScript** för att skapa en snabb och responsiv webbklient. Den kommunicerar med backend-API\:et (Spring Boot) för att hantera vårdmateriel, visa lagerstatus och uppdatera kvantiteter.
-
+Länk till Backend projektet: (https://github.com/AliMalla/item-service.git)
 ## Installation & körning
 
 ### Förutsättningar
